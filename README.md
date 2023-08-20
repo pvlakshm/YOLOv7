@@ -1,8 +1,8 @@
 # YOLOv7 - Road Object Detection
-## Data Preparation
-## Detection
-## Multi-Object Tracking (MOT)
-## Deployment
+[Data Preparation](DataPreparation/README.md)  
+[Detection](Detection/README.md)  
+[Multi-Object Tracking](MOT/README.md)  
+[Deployment](deployment/README.md)  
 ## References
 **[1]** Wong, Kin-Yiu, Yuhang Chen, Zhiqiang Liu, Jianwei Zhang, and Dahua Lin. "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors." arXiv preprint arXiv:2207.02696 (2022).  
 **[2]** Liu, Wei, et al. "SSD: Single Shot MultiBox Detector." arXiv preprint arXiv:1512.02325 (2015).  
