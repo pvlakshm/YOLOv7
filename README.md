@@ -3,10 +3,13 @@ Given a large heterogeneous driving dataset of images, the goal is to train a mo
 
 Object Classification involves identifying and labelling specific classes in the image, such as "car", "pedestrian", or "traffic light".  Object Detection then accurately localizes their positions within the image. Finally, Object Tracking follows the objects over time within a sequence of frames.
 
-[Data Preparation](DataPreparation/README.md)  
-[Detection](Detection/README.md)  
-[Multi-Object Tracking](MOT/README.md)  
-[Deployment](deployment/README.md)  
+The implementation is divided along the following statges:
+
+1, [Data Preparation](DataPreparation/README.md)  
+2. [Detection](Detection/README.md)  
+3. [Deployment](deployment/README.md)  
+4. [Multi-Object Tracking](MOT/README.md)  
+
 ## References
 **[1]** Wong, Kin-Yiu, Yuhang Chen, Zhiqiang Liu, Jianwei Zhang, and Dahua Lin. "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors." arXiv preprint arXiv:2207.02696 (2022).  
 **[2]** Liu, Wei, et al. "SSD: Single Shot MultiBox Detector." arXiv preprint arXiv:1512.02325 (2015).  
