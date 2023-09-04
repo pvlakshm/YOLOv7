@@ -10,6 +10,11 @@ The implementation is divided along the following statges:
 3. [Deployment](deployment/README.md)  
 4. [Multi-Object Tracking](MOT/README.md)  
 
+## Experimental Setup
+Environment: Google Colab Pro+  
+Hardware accelerator: A100 GPU  
+Shape: High-RAM 
+
 ## References
 **[1]** Wong, Kin-Yiu, Yuhang Chen, Zhiqiang Liu, Jianwei Zhang, and Dahua Lin. "YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors." arXiv preprint arXiv:2207.02696 (2022).  
 **[2]** Liu, Wei, et al. "SSD: Single Shot MultiBox Detector." arXiv preprint arXiv:1512.02325 (2015).  
