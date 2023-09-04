@@ -7,7 +7,7 @@ The implementation is divided along the following statges:
 
 1, [Data Preparation](DataPreparation/README.md)  
 2. [Detection](Detection/README.md)  
-3. [Deployment](deployment/README.md)  
+3. [Deployment](Deployment/README.md)  
 4. [Multi-Object Tracking](MOT/README.md)  
 
 ## Experimental Setup
