@@ -1,7 +1,7 @@
 # YOLOv7 - Road Object Detection
-Given a large heterogeneous driving dataset of images, the goal is to train a model for road object detection - i.e. to accurately and automatically classify, detect, and track objects present therein.
+Given a large heterogeneous driving dataset of images, the goal is to train a model for road object detection - i.e. to accurately and automatically **classify**, **detect**, and **track** objects present therein.
 
-Object Classification involves identifying and labelling specific classes in the image, such as "car", "pedestrian", or "traffic light".  Object Detection then accurately localizes their positions within the image. Finally, Object Tracking follows the objects over time within a sequence of frames.
+**Object Classification** involves identifying and labelling specific classes in the image, such as "car", "pedestrian", or "traffic light".  **Object Detection** then accurately localizes their positions within the image. Finally, **Object Tracking** follows the objects over time within a sequence of frames.
 
 The implementation is divided along the following statges:
 
