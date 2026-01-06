@@ -5,7 +5,7 @@ Given a large heterogeneous driving dataset of images, the goal is to train a mo
 **Object Detection** then accurately localizes their positions within the image.  
 Finally, **Object Tracking** follows the objects over time within a sequence of frames.
 
-The implementation is divided along the following statges:
+The implementation is divided along the following stages:
 
 1, [Data Preparation](DataPreparation/README.md)  
 2. [Detection](Detection/README.md)  
